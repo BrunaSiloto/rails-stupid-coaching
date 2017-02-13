@@ -1,0 +1,49 @@
+// Place all the styles related to the coaching controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1{
+  font-family: sans-serif;
+  font-size: 19px;
+}
+
+.container {
+padding:auto;
+margin:auto;
+width: 450px;
+}
+
+p{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 15px;
+  border-left: 3px solid #cccccc;
+  padding-left: 10px;
+}
+
+form{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 15px;
+  border-left: 3px solid #cccccc;
+  padding-left: 10px;
+
+}
+
+.btn {
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #787878;
+  font-size: 12px;
+  padding: 10px 20px 10px 20px;
+  border: solid #cccccc 1px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+  font-weight: bold;
+  color: #e542f4;
+}
